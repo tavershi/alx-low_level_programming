@@ -1,11 +1,10 @@
 #include <stdio.h>
-
 /**
- * main - this is the function of the main
- * Return: 0 when sucessful
+ * main - Entry point
+ * Return: Always 0 (sucess)
  */
-
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n"); return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+       	return (0);
 }
